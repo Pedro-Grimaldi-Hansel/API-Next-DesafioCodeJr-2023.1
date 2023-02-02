@@ -1,4 +1,4 @@
-# Api Desafio de React - Code Junior 2023.1
+# Api Desafio de Next - Code Junior 2023.1
 
 | **Sumário** |
 |-------------|
@@ -8,7 +8,7 @@
 | [Links Úteis](#links-uteis) |
 
 ## Objetivos do repositorio
-O objetivo do repositório é ter um projeto pré-configurado para os desenvolvedores realizarem o Desafio de React da gestão 2023.1.
+O objetivo do repositório é ter um projeto pré-configurado para os desenvolvedores realizarem o Desafio de Next da gestão 2023.1.
 ## Propositos do desafio
 A proposta do desafio é criar um Site para um e-commerce/sistema de vendas, com tema de sua escolha. O site deve conter todos os requesitos funcionais que estão listados no Documento de Requesitos.
 <br>
