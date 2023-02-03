@@ -14,11 +14,11 @@ A proposta do desafio é criar um Site para um e-commerce/sistema de vendas, com
 <br>
 ## Como executar o projeto inicial
 \* É necessário ter o _NodeJS_ e o _NPM/Yarn_ instalados.
-1. Instalar o json-server globalmente: `npm install -g json-server` ou `yarn global add json-server` e o react-scripts globalmente: `npm install -g react-scripts` ou `yarn global add react-scripts`;
+1. Instalar o json-server globalmente: `npm install -g json-server` ou `yarn global add json-server`;
 2. Abra o Terminal na Pasta do Projeto;
 3. Instale as dependências necessárias: `npm install`;
 4. Para rodar a API utilize `npm run api`
-5. Para rodar o projeto utilize `npm run start`
+5. Para rodar o projeto utilize `npm run dev`
 
 ## Links Uteis
 1. [Documentação do React](https://reactjs.org/)
